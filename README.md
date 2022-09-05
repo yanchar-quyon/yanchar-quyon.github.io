@@ -1,2 +1,1 @@
-# instagraph.github.io
-Instagraph Documentation
+# yanchar-quyon.github.io
